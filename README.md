@@ -1,6 +1,9 @@
 Спринт 4.
 Работа "Закрывающий тэг"
 
+https://github.com/dssmeister/zakrivayuschiy-teg-f
+
+Ссылка на gh pages:
 https://dssmeister.github.io/zakrivayuschiy-teg-f/
 
 Итерация 2.
