@@ -149,7 +149,7 @@
   line-height: 1.16667;
 }
 
-.article__body p{
+.article__body p {
   margin-block: 0 27px;
 }
 
@@ -360,7 +360,7 @@
 }
 
 .button:focus-visible {
-  box-shadow: 2px 2px 0 0 var(--main-color, #000);  
+  box-shadow: 2px 2px 0 0 var(--main-color, #000);
 }
 
 .button__text {
@@ -436,13 +436,14 @@
 .modal::backdrop {
   background-color: rgb(0 0 0 / 0.75);
 }
-@media (width <= 375px){
+
+@media (width <= 375px) {  
   .header__container {   
-    padding-block: clamp(120px, 10vw, 120px) 95px;    
+    padding-block: clamp(120px, 10vw, 120px) 95px;   
   }
 
   .article__img-label {
     position: absolute;
-    inset-block-start: 23px;  
+    inset-block-start: 23px;
   }
 }
