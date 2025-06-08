@@ -437,9 +437,9 @@
   background-color: rgb(0 0 0 / 0.75);
 }
 
-@media (width <= 375px) {  
-  .header__container {   
-    padding-block: clamp(120px, 10vw, 120px) 95px;   
+@media (width <= 375px) {
+  .header__container {
+    padding-block: clamp(120px, 10vw, 120px) 95px;
   }
 
   .article__img-label {
