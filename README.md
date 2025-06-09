@@ -1,7 +1,10 @@
 Спринт 4.
 Работа "Закрывающий тэг"
 
-https://github.com/dssmeister/zakrivayuschiy-teg-f.git
+https://github.com/dssmeister/zakrivayuschiy-teg-f
 
-Итерация 1.
+Ссылка на gh pages:
+https://dssmeister.github.io/zakrivayuschiy-teg-f/
+
+Итерация 2.
 В автотестах ошибка: обратить внимание, что страница не перезагружается при взаимодействии с кнопками "Сохранить на память", "Ок". Страница не перезагружается.
